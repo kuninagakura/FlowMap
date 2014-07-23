@@ -1,0 +1,43 @@
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\KinectInteraction180_32.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\KinectInteraction180_64.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\HeatMap.exe.config
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\HeatMap.exe
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\HeatMap.pdb
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\Noise Removal.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\Microsoft.Kinect.Toolkit.Controls.pdb
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\bin\Debug\Noise Removal.pdb
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\Flowmap.csprojResolveAssemblyReference.cache
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\MainWindow.baml
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\MainWindow.g.cs
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\App.g.cs
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\HeatMap_MarkupCompile.cache
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\HeatMap.g.resources
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\HeatMap.Properties.Resources.resources
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\Flowmap.csproj.GenerateResource.Cache
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\HeatMap.exe
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\HeatMap\obj\Debug\HeatMap.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\FlowMap.exe.config
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\FlowMap.exe
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\FlowMap.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\AForge.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\AForge.Math.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\Noise Removal.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\Utilities.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\Noise Removal.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\Utilities.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\AForge.xml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\AForge.Imaging.xml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\bin\Debug\AForge.Math.xml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FlowMap.csprojResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\MainWindow.baml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\MainWindow.g.cs
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\App.g.cs
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FlowMap_MarkupCompile.cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FlowMap.g.resources
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FLowMap.Properties.Resources.resources
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FlowMap.csproj.GenerateResource.Cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FlowMap.exe
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\HeatMap\obj\Debug\FlowMap.pdb

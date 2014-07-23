@@ -1,0 +1,5 @@
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Utilities\bin\Debug\Utilities.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Utilities\bin\Debug\Utilities.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Utilities\obj\Debug\Utilities.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Utilities\obj\Debug\Utilities.pdb

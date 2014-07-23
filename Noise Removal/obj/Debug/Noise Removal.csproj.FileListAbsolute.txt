@@ -1,0 +1,12 @@
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\bin\Debug\Noise Removal.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\bin\Debug\Noise Removal.pdb
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\obj\Debug\Noise Removal.csprojResolveAssemblyReference.cache
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\obj\Debug\Noise Removal.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\obj\Debug\Noise Removal.pdb
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\computer\documents\visual studio 2013\Projects\NoiseRemoval\Noise Removal\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Noise Removal\bin\Debug\Noise Removal.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Noise Removal\bin\Debug\Noise Removal.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Noise Removal\obj\Debug\Noise Removal.csprojResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Noise Removal\obj\Debug\Noise Removal.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\THESIS\Noise Removal\obj\Debug\Noise Removal.pdb
